@@ -1,17 +1,14 @@
 # My Personal Blog System
+## December 2017 - January 2018
+•     
+•    
+•    
 
-## My Personal Blog System  December 2017 - January 2018
-•     I can use it to post my resume or personal blogs and manage them, for example, edit article, delete article, sort article, etc.
-•    Front-end: HTML, CSS, Javascript, Bootstrap library, jQuery library
-•    Back-end: MySQL, PHP,  Laravel 5.0 framework
-
-- [This web application has both front-end UI and back-end UI.]
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- This web application has both front-end UI and back-end UI.
+- I can use it to post my resume or personal blogs and manage them, for example, edit article, delete article, sort article, etc.
+- Front-end: HTML, CSS, Javascript, Bootstrap library, jQuery library.
+- Back-end: MySQL, PHP,  Laravel 5.0 framework.
 - Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, yet powerful, providing tools needed for large, robust applications.
 
